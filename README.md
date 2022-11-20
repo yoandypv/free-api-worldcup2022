@@ -1,5 +1,6 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rahiminia)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.patreon.com/sacavix_tech)
 
+Rights recognized for raminmr
 
 # WORLD CUP API - 2022 DATA SET
 ## Live Scores(Real-time player stats)
